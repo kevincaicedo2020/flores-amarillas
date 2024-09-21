@@ -1640,6 +1640,14 @@ h1 {
   h1 {
       font-size: 1.5em;
   }
+  .titulo {
+    letter-spacing: 7px;
+    font-size: 14px;
+    margin: auto 15px 180px 15px;
+  }
+  .titulo_322{
+    font-size: 14px!important;
+  }
 }
 
 @media screen and (min-width: 601px) and (max-width: 1024px) {
